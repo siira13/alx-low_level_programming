@@ -1,4 +1,5 @@
-#include "holberton.h"
+#include "main.h"
+#include<stdio>
 /**
 *add-adds to numbers i and j
 *@i:number 1

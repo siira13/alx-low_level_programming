@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
 * main - Entry poin. Calls function to print name
 *
